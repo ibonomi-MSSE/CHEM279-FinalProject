@@ -1,5 +1,5 @@
 ### CHEM279-FinalProject
-# Optimization methods for SCF Convergence and Molecular Geometry Using Direct Inversion in the Iterative Subspace (DIIS) and Broyden-Fletcher-Goldfarb-Shanno (BFGS)
+## Optimization methods for SCF Convergence and Molecular Geometry Using Direct Inversion in the Iterative Subspace (DIIS) and Broyden-Fletcher-Goldfarb-Shanno (BFGS)
 
 #### Collaborators: Isabella Bonomi, Cris Zong, Robert Wallace
 
