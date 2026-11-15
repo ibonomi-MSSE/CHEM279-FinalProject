@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 3.31)
 
-project (homework_5 LANGUAGES CXX)
+project (CHEM279-FinalProject LANGUAGES CXX)
 
 # Compiler requirements
 set(CMAKE_CXX_STANDARD 20) 
@@ -53,5 +53,5 @@ add_library(functions STATIC
                       include/gradient.cpp
                       ) 
 target_include_directories(functions PUBLIC ${CMAKE_CURRENT_SOURCE_DIR}/include) 
-add_executable(CHEM297-FinalProject src/main.cpp)
-target_link_libraries(CHEM297-FinalProject PRIVATE functions)
+add_executable(CHEM279-FinalProject src/main.cpp)
+target_link_libraries(CHEM279-FinalProject PRIVATE functions)
